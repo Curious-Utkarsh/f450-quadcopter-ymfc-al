@@ -1,4 +1,14 @@
-# Arduino-Based-FC-Drone
+# F450 Quadcopter on an Arduino Flight Controller (YMFC-AL)
+
+I built and flew an F450 quadcopter using **YMFC-AL**, the open-source Arduino flight controller by **Joop Brokking**. The flight-controller firmware, ESC-calibration sketch and schematic in this repository are his work (v1.4, April 2017); I used them to build, calibrate and fly my own F450.
+
+[![Quadcopter teleoperation](https://img.youtube.com/vi/Zt9OFyUxSyI/hqdefault.jpg)](https://www.youtube.com/shorts/Zt9OFyUxSyI)
+
+Related: [PX4 + ROS 2 drone teleoperation](https://github.com/MechaMind-Labs/ROS2-PX4_Drone_Teleoperation_Using_Joystick) — later aerial work in simulation.
+
+---
+
+## Original YMFC-AL release notes
 
 Thank you for downloading the YMFC-AL software package. 
 
