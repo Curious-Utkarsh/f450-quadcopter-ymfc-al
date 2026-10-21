@@ -4,6 +4,8 @@ I built and flew an F450 quadcopter using **YMFC-AL**, the open-source Arduino f
 
 [![Quadcopter teleoperation](https://img.youtube.com/vi/Zt9OFyUxSyI/hqdefault.jpg)](https://www.youtube.com/shorts/Zt9OFyUxSyI)
 
+Playlist: [Engineering Builds (2022–2026)](https://www.youtube.com/playlist?list=PLPJ4HpDr6h6A)
+
 Related: [PX4 + ROS 2 drone teleoperation](https://github.com/MechaMind-Labs/px4-drone-teleoperation) — later aerial work in simulation.
 
 ---
